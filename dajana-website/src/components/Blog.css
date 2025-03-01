@@ -1,0 +1,14 @@
+.blog-container {
+    padding: 2rem;
+    text-align: center;
+}
+
+.blog-title {
+    font-size: 2rem;
+    color: #333;
+}
+
+.blog-content {
+    font-size: 1rem;
+    color: #666;
+} 

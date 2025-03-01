@@ -1,0 +1,15 @@
+.contact-form-container {
+    padding: 2rem;
+    text-align: center;
+}
+
+.contact-form-title {
+    font-size: 2rem;
+    color: #333;
+}
+
+.contact-form-input {
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    width: 100%;
+} 

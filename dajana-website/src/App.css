@@ -1,0 +1,109 @@
+/* Papierähnlicher Hintergrund */
+body {
+  background: #fdfdfd;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container mit Schatten für papierähnlichen Effekt */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header-Styling */
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 2.5em;
+  margin: 0;
+  color: #e30082;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  margin: 0;
+  color: #128f30;
+}
+
+/* Navigation-Styling */
+.navigation ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.navigation li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #0091e2;
+  font-weight: bold;
+}
+
+.navigation a:hover {
+  color: #e30082;
+}
+
+/* Abschnitts-Styling */
+.section {
+  margin-bottom: 40px;
+}
+
+.section h2 {
+  color: #128f30;
+  border-bottom: 2px solid #ffd11c;
+  padding-bottom: 5px;
+}
+
+/* Karten-Styling für Leistungen */
+.card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.card h3 {
+  color: #e30082;
+}
+
+/* Kontaktinformationen */
+#contact ul {
+  list-style: none;
+  padding: 0;
+}
+
+#contact li {
+  margin-bottom: 10px;
+}
+
+#contact a {
+  color: #0091e2;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer-Styling */
+.footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #777;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+}

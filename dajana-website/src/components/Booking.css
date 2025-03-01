@@ -1,0 +1,13 @@
+.booking-container {
+    padding: 2rem;
+    text-align: center;
+}
+
+.booking-title {
+    font-size: 2rem;
+    color: #333;
+}
+
+.booking-form {
+    margin-top: 1rem;
+} 
